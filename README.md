@@ -1,5 +1,5 @@
 
-
+##CREATE 
 DROP TABLE IF EXISTS `Exchange_Rate`;
 CREATE TABLE `Exchange_Rate` (
     `currency_type` VARCHAR(10) NOT NULL,
